@@ -14,6 +14,6 @@ My computational work integrates established crystallography software, including
 
 I am also a coauthor of *Visualizing Force Propagation Through Proteins by Electric Field-Stimulated X-ray Crystallography*, a manuscript in preparation describing EF-X methods for investigating protein mechanics using aldose reductase as a model system.
 
-I earned my B.S. in Plant Science at the University of Florida and am a co-first author of a [NanoImpact publication](https://doi.org/10.1016/j.impact.2024.100535) examining the effects of cerium oxide nanoparticles and salinity on *Phaseolus vulgaris* (common bean). My contribution focused on root anatomy, including suberin deposition and root barrier formation.
+I earned my B.S. in Plant Science at the University of Florida and am a co-first author of a [NanoImpact publication](https://doi.org/10.1016/j.impact.2024.100535) examining how cerium oxide nanoparticles and salinity affect growth, physiology, and root anatomy—including suberin deposition and root barrier formation—in *Phaseolus vulgaris* (common bean).
 
 [ORCID](https://orcid.org/0009-0002-4987-8490) · [Google Scholar](https://scholar.google.com/citations?user=suHVcD4AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/julio-quinones-09091614/)
