@@ -12,6 +12,8 @@ My current work focuses on:
 
 My computational work integrates established crystallography software, including DIALS, Laue-DIALS, and Careless, with workflows and analysis tools under active development.
 
-I earned my B.S. in Plant Science at the University of Florida and am a co-first author of a [NanoImpact publication](https://doi.org/10.1016/j.impact.2024.100535) examining plant responses to cerium oxide nanoparticles and salinity.
+I am also a coauthor of *Visualizing Force Propagation Through Proteins by Electric Field-Stimulated X-ray Crystallography*, a manuscript describing EF-X methods for investigating protein mechanics using aldose reductase as a model system.
+
+I earned my B.S. in Plant Science at the University of Florida and am a co-first author of a [NanoImpact publication](https://doi.org/10.1016/j.impact.2024.100535) examining the effects of cerium oxide nanoparticles and salinity on *Phaseolus vulgaris* (common bean). My contribution focused on root anatomy, including suberin deposition and root barrier formation.
 
 [ORCID](https://orcid.org/0009-0002-4987-8490) · [Google Scholar](https://scholar.google.com/citations?user=suHVcD4AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/julio-quinones-09091614/)
