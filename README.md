@@ -1,16 +1,17 @@
-## Hi there 👋
+# Julio Enrique Quinones III
 
-<!--
-**julioequinones/julioequinones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fellow | Hekstra Laboratory | Harvard University**
 
-Here are some ideas to get you started:
+I study how molecular interactions shape protein structure, dynamics, and function. In Doeke R. Hekstra’s laboratory, I combine experimental and computational approaches to investigate protein responses to electric-field perturbations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current work focuses on:
+
+- **Protein dynamics:** Investigating how changes in local charge influence structural responses in human aldose reductase.
+- **Experimental crystallography:** Producing, purifying, and crystallizing proteins for X-ray diffraction experiments.
+- **Scientific computing:** Developing modular workflows for diffraction-data processing, recovery, and comparison, using quantitative metrics to evaluate processing choices.
+
+My computational work integrates established crystallography software, including DIALS, Laue-DIALS, and Careless, with workflows and analysis tools under active development.
+
+I earned my B.S. in Plant Science at the University of Florida and am a co-first author of a [NanoImpact publication](https://doi.org/10.1016/j.impact.2024.100535) examining plant responses to cerium oxide nanoparticles and salinity.
+
+[ORCID](https://orcid.org/0009-0002-4987-8490) · [Google Scholar](https://scholar.google.com/citations?user=suHVcD4AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/julio-quinones-09091614/)
